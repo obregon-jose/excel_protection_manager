@@ -5,3 +5,5 @@ pyarmor gen -O obfuscated main.py
 cd obfuscated
 
 pyinstaller --onefile --noconsole --name "Excel Protection Manager" --icon=assets/icon.ico --add-data "assets;assets" obfuscated/main.py
+
+pyinstaller --onefile --noconsole --name "Excel Protection Manager" --icon=assets/icon.ico --add-data "assets;assets" main.py
