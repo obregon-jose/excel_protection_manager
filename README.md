@@ -39,13 +39,25 @@ La aplicación:
 
 ---
 
-## 🔮 Mejoras futuras - v2.0.0
+## 🔮 Mejoras - v2.0.0
 
 - Soporte para protección de estructura del libro
 - Backup automático del archivo original
 - Logs detallados
 - Reactivar el bloqueo de la estructura
 - Version portable para windows
+
+---
+
+---
+
+## 🛠️ Tecnologia usada 
+
+- Python 3
+- Biblioteca PySide6
+- Manipulación de archivos `.xlsx`
+- Procesamiento de XML interno
+- Procesamiento de JSON interno
 
 ---
 
