@@ -1,4 +1,4 @@
-# 📊 Excel Protection Manager
+# 📊 Excel Protection Manager - v1.0.0
 
 Herramienta para recuperar el acceso a hojas de Excel protegidas cuando la contraseña ha sido olvidada.
 
@@ -39,12 +39,13 @@ La aplicación:
 
 ---
 
-## 🔮 Mejoras futuras
+## 🔮 Mejoras futuras - v2.0.0
 
 - Soporte para protección de estructura del libro
 - Backup automático del archivo original
 - Logs detallados
 - Reactivar el bloqueo de la estructura
+- Version portable para windows
 
 ---
 
@@ -58,7 +59,7 @@ Este software ha sido desarrollado con fines de recuperación de acceso a archiv
 
 El uso indebido de esta herramienta es responsabilidad exclusiva del usuario.
 
----
+<!-- ---
 
 ## 📦 Descarga
 
@@ -73,5 +74,5 @@ Puedes descargar la versión ejecutable desde la sección de releases:
 1. Ejecuta el archivo `.exe`
 2. Selecciona el archivo Excel protegido
 3. Espera el procesamiento
-4. Obtén el archivo sin protección
+4. Obtén el archivo sin protección -->
 
